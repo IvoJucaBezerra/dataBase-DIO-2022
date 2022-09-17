@@ -1,3 +1,5 @@
+<p align="center"><img src="img/c-sharp.png" alt="C# Microsoft .NET"><br></p>
+
 # Olá, bem-vindo ao repositório
 
 Criando sua primeira API - Dev Week
@@ -54,10 +56,12 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
 ```
 
-
-
-![Untitled](img/http-code-list.png)
+<p align="center"><img src="img/http-code-list.png" alt="HTTP Response Code List."><br></p>
 
 
 ### Replica do post [original](https://apple-cheek-322.notion.site/Criando-sua-primeira-API-Dev-Week-640468699afb45c48196099cadcf1686).
+
+# <br>
+
+Criado com [Markdown Live Preview](https://markdownlivepreview.com/).
 
