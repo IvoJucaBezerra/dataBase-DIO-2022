@@ -1,7 +1,4 @@
-<figure>
-  <img src="SQL-NoSQL-NewSQL-plaquinhas.jpg" alt="Plaquinhas SQL NoSql newSQL.">
-  <figcaption>Plaquinhas SQL NoSql newSQL.</figcaption>
-</figure>
+<p style="text-align: center;"><img src="SQL-NoSQL-NewSQL-plaquinhas.jpg" alt="Plaquinhas SQL NoSql newSQL."><br></p>
 
 # <br>O que é SQL?
 
@@ -51,11 +48,7 @@ Um exemplo é o banco de dados **Riak**.
 
 ## <br><br><br>Quais são as diferenças?
 
-<figure>
-  <img src="diferenças.webp" alt="Diferenças SQL NoSql.">
-  <figcaption>Diferenças SQL NoSql.</figcaption>
-</figure>
-
+<p style="text-align: center;"><img src="diferenças.webp" alt="Diferenças SQL NoSql."><br></p>
 
 ### O SQL tem certa dificuldade em conciliar a demanda por escalabilidade. Quanto à escalabilidade do NoSQL, devemos levar em consideração a modelagem do sistema.
 
@@ -124,4 +117,6 @@ Como vimos, cada banco tem um propósito específico. Existem alguns bancos NoSQ
 
 - Leia este artigo sobre os [melhores softwares para big data](https://geekblogti.wpengine.com/big-data-quais-sao-os-melhores-softwares/)
 
-<br><br><br><br>Fonte principal [GeekHunter](https://blog.geekhunter.com.br/).<br>Este documento foi criado usando [Markdown Live Preview](https://markdownlivepreview.com/).
+<br><br><br><br>Fonte principal [GeekHunter](https://blog.geekhunter.com.br/).<br>
+
+Este documento foi criado usando [Markdown Live Preview](https://markdownlivepreview.com/).
