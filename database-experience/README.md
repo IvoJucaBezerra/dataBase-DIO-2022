@@ -4,7 +4,7 @@
 
 # <br><br><br>Iniciando com
 
-* Desafio [Construindo seu Primeiro Projeto Lógico de Banco de Dados](https://github.com/Linblade/DIO-2022/tree/main/database-experience/01-refinando-projeto-conceitual-bd-e-commerce)
+* Desafio [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE](https://github.com/Linblade/DIO-2022/tree/main/database-experience/01-refinando-projeto-conceitual-bd-e-commerce)
 
 * Desafio [Construindo um Esquema Conceitual para Banco De dados](https://github.com/Linblade/DIO-2022/tree/main/database-experience/02-contruindo-esquema-conceitual-bd)
 
