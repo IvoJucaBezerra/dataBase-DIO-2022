@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="SQL-NoSQL-NewSQL-plaquinhas.jpg" alt="Plaquinhas SQL NoSql newSQL."><br></p>
+<p align="center"><img src="SQL-NoSQL-NewSQL-plaquinhas.jpg" alt="Plaquinhas SQL NoSql newSQL."><br></p>
 
 # <br>O que é SQL?
 
@@ -48,7 +48,7 @@ Um exemplo é o banco de dados **Riak**.
 
 ## <br><br><br>Quais são as diferenças?
 
-<p style="text-align: center;"><img src="diferenças.webp" alt="Diferenças SQL NoSql."><br></p>
+<p align="center"><img src="diferenças.webp" alt="Diferenças SQL NoSql."><br></p>
 
 ### O SQL tem certa dificuldade em conciliar a demanda por escalabilidade. Quanto à escalabilidade do NoSQL, devemos levar em consideração a modelagem do sistema.
 
