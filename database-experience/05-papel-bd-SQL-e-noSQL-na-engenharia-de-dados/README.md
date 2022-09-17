@@ -117,4 +117,5 @@ Como vimos, cada banco tem um propósito específico. Existem alguns bancos NoSQ
 
 - Leia este artigo sobre os [melhores softwares para big data](https://geekblogti.wpengine.com/big-data-quais-sao-os-melhores-softwares/)
 
-<br><br><br><br>Fonte principal [GeekHunter](https://blog.geekhunter.com.br/).<br>Este documento foi criado usando [Markdown Live Preview](https://markdownlivepreview.com/).
+# <br><br>
+Fonte principal [GeekHunter](https://blog.geekhunter.com.br/).<br>Este documento foi criado usando [Markdown Live Preview](https://markdownlivepreview.com/).
