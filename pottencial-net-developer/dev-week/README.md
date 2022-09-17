@@ -1,10 +1,6 @@
 <p align="center"><img src="img/c-sharp.png" alt="C# Microsoft .NET"><br></p>
 
-# Olá, bem-vindo ao repositório
-
-Criando sua primeira API - Dev Week
-
-Por que .NET e C# ?
+# Olá, bem-vindo ao repositório<br> Criando sua primeira API - Dev Week<br><br><br> Por que .NET e C# ?
 
 - Multiplataforma e ótima curva de aprendizagem
 - Framework Web entre os mais populares: [ASP.NET](http://ASP.NET) CORE
@@ -56,7 +52,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
 ```
 
-<p align="center"><img src="img/http-code-list.png" alt="HTTP Response Code List."><br></p>
+<p align="center"><img src="img/http-code-list.png" alt="HTTP Status Code List."><br></p>
 
 
 ### Replica do post [original](https://apple-cheek-322.notion.site/Criando-sua-primeira-API-Dev-Week-640468699afb45c48196099cadcf1686).
