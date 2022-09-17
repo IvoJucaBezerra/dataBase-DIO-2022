@@ -1,10 +1,12 @@
 # Olá, Bem-vindo ao repositório dos Bootcamp da DIO<br> no ano 2022
 
-## Este repositório foi modificado para almacenar todos os desafios dos bootcamps da DIO utilizando un único repositorio... então se tiver algum repo faltante dos outros bootcamps ele com certeza tem que estar aqui..
+## Este repositório foi modificado para almacenar todos os desafios dos bootcamps da DIO utilizando un único repositorio... então se tiver algum repo faltante dos outros bootcamps ele com certeza tem que estar aqui...
 
 # <br><br><br>Iniciando com
 
-* Bootcamp [Database Experience](https://github.com/Linblade/DIO-2022/tree/main/database-experience)
+* Bootcamp [Database Experience](https://github.com/Linblade/DIO-2022/tree/main/database-experience).
+
+* Bootcamp [Pottencial .net Developer](https://github.com/Linblade/DIO-2022/tree/main/pottencial-net-developer).
 
 # <br><br><br><br><br><br><br><br>
 
