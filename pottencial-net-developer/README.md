@@ -4,7 +4,7 @@
 
 # <br><br><br>Iniciando com
 
-- Desafio [Criando sua primeira API – Pottencial DEV WEEK]()
+- Desafio [Criando sua primeira API – Pottencial DEV WEEK](https://github.com/Linblade/DIO-2022/tree/main/pottencial-net-developer/dev-week)
 
 # <br><br><br><br><br><br><br><br>
 
