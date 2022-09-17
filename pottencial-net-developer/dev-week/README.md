@@ -55,7 +55,7 @@ dotnet add package Microsoft.EntityFrameworkCore.InMemory
 <p align="center"><img src="img/http-code-list.png" alt="HTTP Status Code List."><br></p>
 
 
-### Replica do post [original](https://apple-cheek-322.notion.site/Criando-sua-primeira-API-Dev-Week-640468699afb45c48196099cadcf1686).
+### Replica do post [original do Felipe Aguiar](https://apple-cheek-322.notion.site/Criando-sua-primeira-API-Dev-Week-640468699afb45c48196099cadcf1686).
 
 # <br>
 
